@@ -1,0 +1,17 @@
+{
+  "name": "nutrition-tracker-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SirSqueeb/nutrition-tracker-api.git",
+  "author": "MICHAEL.TUDRICK <mtudrick@bisocind.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  },
+  "type": "module"
+}
